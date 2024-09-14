@@ -15,6 +15,9 @@ dim_states_codes<br>
 GDP Data For FYs<br>
 Literacy Rate Per State<br>
 
+### ⚙️Tool Used<br>
+Power BI<br>
+
 ### 🔍Primary Analysis Questions
 1)List top 5 / bottom 5 constituencies of 2014 and 2019 in terms of voter turnout ratio?<br>
 2)List top 5 / bottom 5 states of 2014 and 2019 in terms of voter turnout ratio?<br>
