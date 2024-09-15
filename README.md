@@ -7,13 +7,13 @@ As a Data Analyst in the company AtliQ Media, my task was to generate meaningful
 
 ### 📂Dataset Information
 #### Dataset Provided for Primary Analysis<br>
-constituency_wise_results_2014<br>
-constituency_wise_results_2019<br>
-dim_states_codes<br>
+constituency_wise_results_2014.csv<br>
+constituency_wise_results_2019.csv<br>
+dim_states_codes.csv<br>
 
 #### Dataset Collected for Secondary Analysis<br>
-GDP Data For FYs<br>
-Literacy Rate Per State<br>
+GDP Data For FYs.xlsx<br>
+Literacy Rate Per State.xlsx<br>
 
 ### ⚙️Tool Used<br>
 Power BI<br>
