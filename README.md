@@ -39,9 +39,3 @@ Power BI<br>
 
 ### 👇You can view my work by clicking on link below<br>
 https://app.powerbi.com/view?r=eyJrIjoiNWJmMjkyZmQtYTkwYi00NTQwLTljNTMtZmExZDZlNGIxNmM4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
-
-### LinkedIn post link<br>
-https://www.linkedin.com/posts/anjalichavan369_insights-on-2014-2019-lok-sabha-elections-activity-7201912850150301697-fv1P?utm_source=share&utm_medium=member_desktop
-
-### Project Presentation Link<br>
-https://youtu.be/xH8XoBCGdZY?si=n1JUuE6uxbVYM2BM
